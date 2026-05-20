@@ -1,0 +1,16 @@
+{
+  "index": 10,
+  "name": "data-contract-validation-platform-0003",
+  "title": "Data Contract Validation Platform",
+  "domain": "data engineering",
+  "description": "A staged data platform for schema contracts, quality checks, profiling, reporting, and pipeline operations. Stage set 0003.",
+  "topics": [
+    "data-quality",
+    "data-contracts",
+    "etl",
+    "analytics",
+    "portfolio"
+  ],
+  "stageCount": 12,
+  "generatedAt": "2026-05-20T05:52:59.975Z"
+}
