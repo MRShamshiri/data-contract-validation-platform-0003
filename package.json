@@ -1,0 +1,12 @@
+{
+  "name": "data-contract-validation-platform-0003",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.mjs",
+    "test": "node tests/smoke.test.mjs",
+    "lint": "node scripts/validate-structure.mjs",
+    "report": "node scripts/generate-report.mjs"
+  }
+}
